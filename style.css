@@ -1,0 +1,19 @@
+@import "https://fonts.googleapis.com/css2?family=Megrim&display=swap";
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #000; /* Mandatory for the glow effect */
+}
+
+#word {
+  font-family: Megrim, cursive;
+  font-size: 10vh;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: #0cf; /* Divine Cyan */
+  -webkit-text-stroke: 0.1vh #60f;
+  pointer-events: none;
+  z-index: 10;
+}
