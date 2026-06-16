@@ -28,3 +28,5 @@ This project processes a `.glb` 3D model to extract surface geometry, then filte
 
 ---
 *Built with Three.js*
+
+Live site: https://nanak011.github.io/krishna/
